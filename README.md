@@ -23,10 +23,20 @@ Start the node and interact with the Technical Guruji AI:
 
 
 gaianet start
-
 Features
-Provides phone reviews and recommendations based on the latest models.
-Mimics the conversational style of Technical Guruji.
-Offers detailed insights into phone specifications and features.
+Phone Reviews & Recommendations:
+
+The AI provides detailed reviews of the latest smartphones, helping users make informed decisions.
+Mimics Technical Guruji’s Style:
+
+The AI mimics Technical Guruji's familiar conversational tone and style, offering relatable and accessible phone-related advice.
+Detailed Phone Specifications:
+
+Users can ask about specific phone models, their specs, and key features, and the AI will provide thorough answers.
 Usage
-Once the node is running, interact with the AI by asking questions about smartphones, upcoming models, and phone comparisons.
+Once the node is running, you can interact with the AI by asking it questions such as:
+"What are the top phones in 2024?"
+"Which is better, iPhone 15 or Samsung Galaxy S24?"
+"What are the latest features of the Google Pixel?"
+"Which budget phone should I buy under $500?"
+This AI is ideal for anyone looking for detailed, up-to-date information on smartphones, making it a helpful resource for phone enthusiasts and shoppers.
